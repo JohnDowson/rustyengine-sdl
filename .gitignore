@@ -1,0 +1,9 @@
+/target
+/resources
+/.vscode
+/out
+TODO
+/*.code-workspace
+/*.lib.
+/*.dll
+/msvc
